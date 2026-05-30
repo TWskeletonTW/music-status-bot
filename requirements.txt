@@ -1,0 +1,4 @@
+discord.py[voice]
+python-dotenv
+sounddevice
+winrt-Windows.Media.Control
